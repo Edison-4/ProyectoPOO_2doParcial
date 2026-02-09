@@ -1,5 +1,5 @@
 # ProyectoPOO_2doParcial
-# Link video: https://drive.google.com/file/d/1RcwtWDcPi80DcPAwUo_9MLRz9b1DfI1r/view?usp=sharing
+# Link video: https://drive.google.com/file/d/1xOSx08HDIG1ceLJ1cbkmNps1pXCsOmmQ/view?usp=drivesdk
 
 <img width="1920" height="1080" alt="Captura de pantalla 2026-02-08 191545" src="https://github.com/user-attachments/assets/c597e41f-bf11-4a1b-8338-ab41e9b9ce87" />
 # UI funcionando
